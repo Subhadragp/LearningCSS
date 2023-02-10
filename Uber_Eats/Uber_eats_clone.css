@@ -1,0 +1,11 @@
+#orderfood{
+    font-family: 'lucida handwriting';
+}
+#businessacc{
+    background-image: url("img_1.png");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: fit-content;
+
+}
